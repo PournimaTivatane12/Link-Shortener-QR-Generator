@@ -1,0 +1,19 @@
+Flask==3.0.0         # If using Flask as your backend framework
+qrcode==7.3          # For QR code generation
+SQLAlchemy==2.1.0    # For database management with Flask
+gunicorn==21.1.0     # For deployment on platforms like Heroku
+requests==2.31.0     # If making any HTTP requests
+
+# Optional: If you want to add click tracking functionality
+Flask-Tracking==0.1.1 
+
+# Database drivers
+psycopg2==2.9.7      # PostgreSQL driver (if using PostgreSQL)
+mysqlclient==2.1.1   # MySQL driver (if using MySQL)
+
+# Frontend-related
+Flask-WTF==1.1.1     # For form handling in Flask
+
+To install these dependencies, you would run:
+
+pip install -r requirements.txt
