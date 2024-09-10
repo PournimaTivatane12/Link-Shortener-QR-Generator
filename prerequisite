@@ -1,68 +1,68 @@
 1. Technical Skills:
 
-👉 Programming Languages:
+ Programming Languages:
 
 👉 Python (for backend) or JavaScript (Node.js).
 
-👉 Frontend Development:
+ Frontend Development:
 
 👉 Knowledge of HTML, CSS, and JavaScript.
 
 👉 Experience with frameworks like React.js, Vue.js, or Vanilla JavaScript.
 
-👉 Backend Development:
+ Backend Development:
 
 👉 Python frameworks like Flask or Django, or Node.js with Express.js.
 
 👉 Understanding of RESTful API design and implementation.
 
-👉 Database Knowledge:
+ Database Knowledge:
 
 👉 Basics of working with databases like MongoDB, MySQL, or PostgreSQL.
 
-👉 QR Code Generation:
+ QR Code Generation:
 
 👉 Familiarity with libraries for generating QR codes (qrcode for Python or qr-code-generator for JavaScript).
 
-👉 API Integration:
+ API Integration:
 
 👉 Basic understanding of building and consuming APIs.
 
-👉 URL Shortening Algorithm:
+ URL Shortening Algorithm:
 
 👉 Understanding of encoding algorithms like Base62 for generating short URLs.
 
 2. Software/Development Tools:
 
-👉 Code Editor/IDE:
+ Code Editor/IDE:
 
 👉 Visual Studio Code, PyCharm, or any preferred code editor.
 
-👉 Version Control:
+ Version Control:
 
 👉 Git and GitHub (for managing code and version control).
 
 👉 GitHub repository setup for tracking project progress (or another version control platform).
 
-👉 Environment Setup:
+ Environment Setup:
 
 👉 Python 3.x installed on your system if using Python for the backend.
 
 👉 Node.js and npm if using JavaScript/Node.js for the backend.
 
-👉 Package Managers:
+ Package Managers:
 
 👉 pip for Python or npm for Node.js to manage project dependencies.
 
 3. Required Libraries/Packages:
 
-👉 Frontend:
+ Frontend:
 
 👉 Basic HTML, CSS, and JavaScript.
 
 👉 React or Vue.js if building a more interactive frontend.
 
-👉 Backend:
+ Backend:
 
 👉 Python (Flask/Django):
 
@@ -72,7 +72,7 @@
 
 👉 hashids or similar library for generating short URLs.
 
-👉 Node.js:
+ Node.js:
 
 👉 express for handling backend routes.
 
@@ -80,7 +80,7 @@
 
 👉 shortid or nano-id for generating shortened URLs.
 
-👉 Database:
+ Database:
 
 👉 Install a database management system like:
 
@@ -88,13 +88,13 @@
 
 👉 MySQL/PostgreSQL (sqlalchemy for Python, pg or mysql for Node.js).
 
-👉 API Testing Tools:
+ API Testing Tools:
 
 👉Postman or cURL for testing API endpoints.
 
 4. Cloud and Deployment Knowledge:
 
-👉 Cloud Services:
+ Cloud Services:
 
 👉Basic knowledge of deploying web apps on platforms like:
 
@@ -102,7 +102,7 @@
 
 👉 Glitch or Cyclic (for simpler, cost-effective deployment).
 
-👉 CI/CD Pipeline (Optional):
+ CI/CD Pipeline (Optional):
 
 👉 If deploying on AWS or other platforms, understanding of Continuous Integration and Continuous Deployment (CI/CD) would be useful.
 
