@@ -1,0 +1,55 @@
+# Node.js specific (if using Node.js for backend)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+
+# Python specific (if using Python for backend)
+*.pyc
+__pycache__/
+env/
+venv/
+Pipfile.lock
+*.pyo
+*.pyd
+*.pdb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build directories (for bundling or deployment)
+build/
+coverage/
+
+# Dependency directories (for package managers)
+bower_components/
+jspm_packages/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Test reports
+coverage/
+test-output/
+
+# Miscellaneous
+*.bak
+*.swp
+
+# Exclude your documentation if any
+docs/
+
+# Exclude other directories or files specific to your workflow
