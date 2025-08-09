@@ -1,6 +1,6 @@
 # Link Shortener and QR Code Generator
+<img width="1317" height="712" alt="image" src="https://github.com/user-attachments/assets/8f355826-7a98-43e8-9151-1c901835a25e" />
 
-**Overview**
 
 The Link Shortener and QR Code Generator is a web-based application that allows users to shorten long URLs and generate corresponding QR codes for easy sharing.
 This project aims to enhance user experience by simplifying the process of sharing links and providing a quick way to access them through QR codes.
